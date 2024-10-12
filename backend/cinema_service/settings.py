@@ -96,16 +96,6 @@ DATABASES = {
         "PASSWORD": os.environ["POSTGRES_PASSWORD"],
     }
 }
-#
-# DATABASES = {
-#     "default": {
-#         "ENGINE": "django.db.backends.postgresql",
-#         "HOST": "localhost",
-#         "NAME": "cinema",
-#         "USER": "cinema",
-#         "PASSWORD": "cinema",
-#     }
-# }
 
 
 # Password validation
